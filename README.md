@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Distributed system, Network, and Deep Learning Computer Vision
 - 📫 How to reach me: [My website](https://ruoliu.netlify.app), [Linkedin](https://www.linkedin.com/in/ruo-liu/)
-- ⚡ Fun fact: I like horror games and movies
+- ⚡ Fun fact: I like horror games and movies 😈
   
   <!-- [![Ruo's github stats](https://github-readme-stats.vercel.app/api?username=ruoliu2&show_icons=true&theme=radical)]() -->
