@@ -1,22 +1,22 @@
-### Hi there 👋
+h1 align="center"> Howdy, I'm Ruo Liu 😃 </h1>
 
-<!--
-**ruoliu2/ruoliu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
-- 🌱 I’m currently learning Distributed system, Network, and Deep Learning Computer Vision
-- 📫 How to reach me: [My website](https://ruoliu.netlify.app), [Linkedin](https://www.linkedin.com/in/ruo-liu/)
-- ⚡ Fun fact: I like horror games and movies 😈
-  
-  <!-- [![Ruo's github stats](https://github-readme-stats.vercel.app/api?username=ruoliu2&show_icons=true&theme=radical)]() -->
+<h3 align="center"> Computer Science Engineer @ UIUC 24'</h3>
+<h2>📫 Reach me @</h2>
+<hr>
+<div align="center">
+    <a href="mailto:ruoliu2@illinois.edu" target="_blank">
+        <img src="./icons/envelope-solid.svg" width="7%"/>
+    </a>
+    <img width="7%" />
+    <a href="https://github.com/ruoliu2" target="_blank">
+        <img src="./icons/github.svg" width="7%"/>
+    </a>
+    <img width="7%" />
+    <a href="https://www.linkedin.com/in/ruo-liu/" target="_blank">
+        <img src="./icons/linkedin.svg" width="7%"/>
+    </a>
+    <img width="7%" />
+    <a href="https://ruoliu.netlify.app" target="_blank">
+        <img src="icons/pager-solid.svg" width="7%"/>
+    </a>
+</div>
