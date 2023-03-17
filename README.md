@@ -3,13 +3,13 @@
 <h3 align="center"> Computer Science Engineer @ UIUC 24'</h3>
 <h2>📫 Reach me @</h2>
 <hr>
-<style>
-    picture img {
-    max-width: 7%;
-    height: auto;
-    }
-</style>
 <div align="center">
+    <style>
+        picture img {
+        max-width: 7%;
+        height: auto;
+        }
+    </style>
     <a href="mailto:ruoliu2@illinois.edu" target="_blank">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="icons/envelope-dark.svg">
