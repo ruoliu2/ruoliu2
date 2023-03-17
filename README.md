@@ -5,22 +5,34 @@
 <hr>
 <div align="center">
     <a href="mailto:ruoliu2@illinois.edu" target="_blank">
-        <img src="./icons/envelope-solid.svg#gh-light-mode-only" width="7%"/>
-        <img src="./icons/envelope-dark.svg#gh-dark-mode-only" width="7%"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="icons/envelope-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="icons/envelope-solid.svg">
+            <img alt="" src="icons/envelope-solid.svg" style="width:7%;"> 
+        </picture>
     </a>
     <img width="7%" />
     <a href="https://github.com/ruoliu2" target="_blank">
-        <img src="./icons/github.svg#gh-light-mode-only" width="7%"/>
-        <img src="./icons/github-dark.svg#gh-dark-mode-only" width="7%"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="icons/github-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="icons/github.svg">
+            <img alt="" src="icons/github.svg" style="width:7%;">
+        </picture>
     </a>
     <img width="7%" />
     <a href="https://www.linkedin.com/in/ruo-liu/" target="_blank">
-        <img src="./icons/linkedin.svg#gh-light-mode-only" width="7%"/>
-        <img src="./icons/linkedin-dark.svg#gh-dark-mode-only" width="7%"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="icons/linkedin-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="icons/linkedin.svg">
+            <img alt="" src="icons/linkedin.svg" style="width:7%;">
+        </picture>
     </a>
     <img width="7%" />
     <a href="https://ruoliu.netlify.app" target="_blank">
-        <img src="icons/pager-solid.svg#gh-light-mode-only" width="7%"/>
-        <img src="icons/page-dark.svg#gh-dark-mode-only" width="7%"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="icons/page-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="icons/page-solid.svg">
+            <img alt="" src="icons/page-solid.svg" style="width:7%;">
+        </picture>
     </a>
 </div>
