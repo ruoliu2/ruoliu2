@@ -5,7 +5,7 @@
 <hr>
 <div align="center">
     <style>
-        picture img {
+        picture {
         max-width: 7%;
         height: auto;
         }
