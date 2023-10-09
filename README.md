@@ -3,6 +3,7 @@
 <h3 align="center"> CS Student @ UIUC 24'</h3>
 <h2>📫 Reach me @</h2>
 <hr>
+
 <div align="center">
     <a href="mailto:ruoliu2@illinois.edu" target="_blank" title="email">
         <picture>
