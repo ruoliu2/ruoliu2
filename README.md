@@ -1,4 +1,4 @@
-<h1 align="center"> Howdy, I'm Ruo Liu 😃 </h1>
+<h1 align="center"> Howdy, I'm Rudy 😃 </h1>
 
 <h3 align="center"> CS Student @ UIUC 24'</h3>
 <h2>📫 Reach me @</h2>
