@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-    <a href="mailto:ruoliu2@illinois.edu" target="_blank" title="email">
+    <a href="mailto:ruoliu.illinois@gmail.com" target="_blank" title="email">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="icons/envelope-dark.svg" width="7%">
             <source media="(prefers-color-scheme: light)" srcset="icons/envelope.svg" width="7%">
