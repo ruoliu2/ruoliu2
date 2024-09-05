@@ -1,6 +1,6 @@
 <h1 align="center"> Howdy, I'm Ruo Liu 😃 </h1>
 
-<h3 align="center"> CS Student @ UIUC 24'</h3>
+<h3 align="center"> CS @ UIUC </h3>
 <h2>📫 Reach me @</h2>
 <hr>
 
