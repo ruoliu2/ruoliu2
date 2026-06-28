@@ -21,7 +21,7 @@
         </picture>
     </a>
     <img width="7%" />
-    <a href="https://www.linkedin.com/in/ruo-liu/" target="_blank" title="linkedin">
+    <a href="https://www.linkedin.com/in/ruoliu/" target="_blank" title="linkedin">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="icons/linkedin-dark.svg" width="7%">
             <source media="(prefers-color-scheme: light)" srcset="icons/linkedin.svg" width="7%">
